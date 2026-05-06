@@ -27,13 +27,13 @@ This project analyzes a bank's loan portfolio to evaluate application trends, fu
                         <li><strong>Funding & Recovery Performance –</strong>  Total funded amount reached $435.76M, while total amount received was $473.07M, showing strong repayment performance and positive portfolio returns.
                         <li><strong>Loan Status Distribution –</strong> 83% of loans are fully paid, 14% are charged off, and only 3% remain active, reflecting a stable and mature loan portfolio.
                         <li><strong>Regional Performance –</strong> California leads in both loan applications and funding, while Nebraska, Nevada, and Alaska show higher default percentages, indicating regional risk concentration.
-                        <li><strong>Loan Tenure Analysis (36 vs 60 Months) –</strong> 36-month loan tenure dominate applications and funding (62%) and as well as default rate (57%) suggesting increased long-term risk, whereas 60-month loan tenure contribute a lesser proportion of defaults.
+                        <li><strong>Loan Tenure Analysis (36 vs 60 Months) –</strong> 36-month loan tenure dominate applications and funding (62%) and as well as default rate (57%) suggesting increased long-term risk, whereas 60-month loan tenure contribute a lesser proportion of defaults (43%).
                         <li><strong>Work Experience Impact –</strong> Borrowers with 10+ years of experience submit the most applications, but default rates are slightly higher in 7 years and 10+ years categories, indicating tenure alone does not reduce risk.
                         <li><strong>Loan Purpose Risk Analysis –</strong> Debt consolidation accounts for the highest applications and funding, while Small Business, Renewable Energy, and Educational loans show higher default rates.
                         <li><strong>Home Ownership Analysis –</strong> Mortgage holders receive higher funded amounts and show the lowest default rate, whereas ‘OTHER’ and ‘RENT’ categories exhibit comparatively higher risk.
                         <li><strong>Income Category Impact –</strong> Lower Middle and Lower Class segments drive the highest application volume, while Upper Middle Class shows the highest default rate (17%), requiring focused risk management.</ol>
                     <br><br><strong><h3>🐱 Recommendations:</h3></strong><hr><ul>
-                       <li> Strengthen credit evaluation for 60-month loans, as they show higher default risk compared to 36-month loans.
+                       <li> Strengthen credit evaluation for 36-month loans, as they show higher default risk compared to 60-month loans.
                        <li> Apply stricter screening criteria for Small Business, Renewable Energy, and Educational loans, since these purposes have higher default rates.
                        <li> Closely monitor lending in high-default states like Nebraska, Nevada, and Alaska, and implement region-specific risk controls.
                        <li> Focus expansion efforts in stable and high-performing markets like California, New York, and Florida.
